@@ -16,7 +16,7 @@ also compile there only.</p><h2>Technologies Used</h2>
 </ul><ul>
 <li>Monaco Editor</li>
 </ul><h2>Setup</h2>
-<hr><p>You need to setup you own rapid Api key and then make an .env file to add your Api's.</p><h5>Steps</h5><ul>
+<hr><p>You need to setup you own rapid Api key and then make an .env file to call Api's.</p><h5>Steps</h5><ul>
 <li>Clone this repository</li>
 </ul><ul>
 <li>Install all the dependencies</li>
